@@ -1,4 +1,5 @@
 x <- 6
+ls()
 y <- 1
 install.packages("reprex")
 A <- 1
